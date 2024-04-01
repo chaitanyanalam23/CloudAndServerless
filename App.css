@@ -1,0 +1,16 @@
+/* App.css */
+
+.App {
+  display: block;
+  flex-wrap: wrap; 
+  justify-content: space-between; 
+  margin: 0 auto; 
+}
+
+.App video {
+  border: 2px solid #020202; /* Add a subtle border */
+  border-radius: 5px; /* Round video corners for a softer look */
+  margin: 40px;
+}
+
+
